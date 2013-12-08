@@ -1,4 +1,4 @@
-#summary Short guide to the MicMute program (the Russian version).
+#summary Short guide to the MicMute program.
 
 = Purpose of the program =
 
