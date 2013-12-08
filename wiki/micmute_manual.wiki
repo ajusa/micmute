@@ -6,7 +6,7 @@ The MicMute program is intended for microphone switching on/off by the keyboard.
 
 = Setup sequence =
 
-Start the MicMute program (the executable is mic_mute.exe). In a system tray the program icon will appear. Right-click on the icon to show the context menu.
+Unpack the program archive. Start the MicMute program (the executable is mic_mute.exe). In a system tray the program icon will appear. Right-click on the icon to show the context menu.
 In the context menu:
   * select item *Devices*, and in its submenu choose the recording device (microphone) which is required to be operated from the keyboard
   * adjust a combination of keys which will cause microphone to be switched on/off by selecting item *Setup shortcut*
